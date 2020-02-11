@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TP4056_Charging_Board
+D 5V 1A Micro USB 18650 Lithium Battery Charging Board Charger Module+Protection Dual Functions TP4056
+K 18650, TP4056, Charging Module, 
+$ENDCMP
+#
+#End Doc Library
