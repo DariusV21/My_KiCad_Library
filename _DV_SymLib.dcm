@@ -1,8 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PAM8403_Amplifier_Board
+D PAM8403 Super Mini Digital Amplifier Board 2*3W Class D Digital 2.5V To 5V power amplifier Board
+K PAM8403, Class D, amplifier, digital, 3W
+F https://www.diodes.com/assets/Datasheets/PAM8403.pdf
+$ENDCMP
+#
 $CMP TP4056_Charging_Board
 D 5V 1A Micro USB 18650 Lithium Battery Charging Board Charger Module+Protection Dual Functions TP4056
-K 18650, TP4056, Charging Module, 
+K 18650, TP4056, Charging Module,
 $ENDCMP
 #
 #End Doc Library
